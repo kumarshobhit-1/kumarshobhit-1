@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I am shobhit kumar </h1>
+<h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
@@ -29,14 +29,6 @@
 
 ---
 
-### 👨‍💼 Work Experience:
-- **Web Development Intern** at Unified Mentor Pvt Ltd (September 2024 - present)
-   - Developed a responsive website using HTML, CSS, and JavaScript.
-   - Integrated Firebase for authentication and real-time data storage.
-   - Worked with a team to improve overall website performance.
-
----
-
 ### 🧰 Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,9 +46,12 @@
 
 ---
 
-## 🧠 LeetCode Contributions
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
+<h2>🧠 LeetCode Contributions</h2>
+<p align="center">
+  <a href="https://leetcode.com/kumarshobhit" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap" width="100%" />
+  </a>
+</p>
 
 ---
 
