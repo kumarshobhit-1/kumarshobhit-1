@@ -10,6 +10,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://shobhitkumar1437.github.io/myPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -46,12 +54,9 @@
 
 ---
 
-<h2>🧠 LeetCode Contributions</h2>
-<p align="center">
-  <a href="https://leetcode.com/kumarshobhit" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap" height="50%" width="100%" />
-  </a>
-</p>
+## 🧠 LeetCode Contributions
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shobhit123?theme=dark&ext=heatmap)](https://leetcode.com/shobhit123)
 
 ---
 
@@ -69,8 +74,8 @@
 
 ### 🖥️ Coding Platforms:
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit/)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 
 ---
