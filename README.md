@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
 </p>
 
+---
+
 ### 👨‍💻 About Me:
 - 🏫 Student of B.Tech CSE, Specialization in IoT and Blockchain.
 - 💻 Passionate about coding, problem-solving, and web development.
@@ -56,7 +58,7 @@
 
 ## 🧠 LeetCode Contributions
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/shobhit123?theme=dark&ext=heatmap)](https://leetcode.com/shobhit123)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
 
 ---
 
