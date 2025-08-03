@@ -87,16 +87,3 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 
----
-
-[![](https://visitcount.itsvg.in/api?id=ShobhitKumar1437&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShobhitKumar1437&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ShobhitKumar1437?label=Follow&style=social" alt="GitHub followers" />
-</p>
