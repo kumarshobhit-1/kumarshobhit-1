@@ -49,7 +49,7 @@
 <h2>🧠 LeetCode Contributions</h2>
 <p align="center">
   <a href="https://leetcode.com/kumarshobhit" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap" width="100%" />
+    <img src="https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap" height="50%" width="100%" />
   </a>
 </p>
 
