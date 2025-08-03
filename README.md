@@ -54,6 +54,12 @@
 
 ---
 
+## 🧠 LeetCode Contributions
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
+
+---
+
 ### 💬 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -68,7 +74,7 @@
 
 ### 🖥️ Coding Platforms:
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shobhitkumar7/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit/)
 - [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 
