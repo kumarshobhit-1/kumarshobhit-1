@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://shobhitkumar1437.github.io/myPortfolio/" target="_blank">
+  <a href="https://kumarshobhit-1.github.io/myPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
@@ -56,16 +56,16 @@
 
 ### 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShobhitKumar1437&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShobhitKumar1437&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShobhitKumar1437)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1)](https://git.io/streak-stats)
 
 
 ---
 
 ## 🧠 LeetCode Contributions
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
 
 ---
 
@@ -83,7 +83,7 @@
 
 ### 🖥️ Coding Platforms:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit-1/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 
