@@ -65,7 +65,7 @@
 
 ## 🧠 LeetCode Contributions
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit-1)
 
 ---
 
