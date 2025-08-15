@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://kumarshobhit-1.github.io/myPortfolio/" target="_blank">
+  <a href="https://kumarshobhit-1.github.io/MyPortfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
