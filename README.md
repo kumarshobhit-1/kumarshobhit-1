@@ -62,6 +62,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## 🧠 LeetCode Contributions
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit-1)
