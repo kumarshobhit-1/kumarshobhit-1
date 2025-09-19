@@ -75,7 +75,7 @@
 
 ## GeeksforGeeks
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit)](<YOUR_LINK_HERE>)
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit)](https://www.geeksforgeeks.org/user/kumarshobhit/)
 
 ---
 
