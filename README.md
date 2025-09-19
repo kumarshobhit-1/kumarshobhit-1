@@ -75,7 +75,7 @@
 
 ## GeeksforGeeks
 
-![GFG Streak](https://gfg-badges.vercel.app/generate_badge?username=kumarshobhit)
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit)](<YOUR_LINK_HERE>)
 
 ---
 
