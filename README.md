@@ -58,7 +58,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark)](https://git.io/streak-stats).
 
 ---
 
