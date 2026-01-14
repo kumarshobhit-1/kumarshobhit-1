@@ -79,6 +79,13 @@
 
 ---
 
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshobhit-1&theme=react-dark" />
+</p>
+
+---
+
 ### 💬 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
