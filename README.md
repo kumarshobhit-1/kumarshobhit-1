@@ -60,10 +60,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark)](https://git.io/streak-stats).
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kumarshobhit-1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
@@ -106,3 +110,7 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Visitors&color=blue" alt="Visitors"/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kumarshobhit-1&icon=4&color=0)](https://visitcount.itsvg.in)
