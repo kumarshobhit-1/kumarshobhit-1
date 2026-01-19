@@ -79,7 +79,7 @@
 
 ## GeeksforGeeks
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit?theme=dark&ext=heatmap)](https://www.geeksforgeeks.org/user/kumarshobhit/)
+[![Shobhit's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit?theme=dark&ext=heatmap)](https://www.geeksforgeeks.org/user/kumarshobhit/)
 
 ---
 
