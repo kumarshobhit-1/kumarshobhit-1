@@ -60,9 +60,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark)](https://git.io/streak-stats).
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kumarshobhit-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
