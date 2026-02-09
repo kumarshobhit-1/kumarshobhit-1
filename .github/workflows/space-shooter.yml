@@ -13,7 +13,7 @@ jobs:
       - name: Create assets directory
         run: mkdir -p assets
       - uses: czl9707/gh-space-shooter@v1
-      with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        output-path: assets/space-shooter.gif
-        strategy: random
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/space-shooter.gif
+          strategy: random
