@@ -97,44 +97,26 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ## 📊 GitHub Analytics & Streak
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/kumarshobhit-1">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshobhit-1&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/kumarshobhit-1">
-          <img src="https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/kumarshobhit-1">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/kumarshobhit-1">
-          <img src="https://github-contributor-stats.vercel.app/api?username=kumarshobhit-1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark" alt="GitHub Streak" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshobhit-1&theme=react-dark" alt="Activity Graph" />
+  </a>
+</p>
 
 ---
 
