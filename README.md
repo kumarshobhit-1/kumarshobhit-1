@@ -1,13 +1,7 @@
 <h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F2FE&center=true&vCenter=true&width=500&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
-</p>
-
-<p align="center">
-  <a href="https://kumarshobhit.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit My Portfolio" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
 </p>
 
 ---
@@ -19,9 +13,15 @@ Name: Shobhit Kumar
 Role: Computer Science Engineer & Full-Stack Developer
 Education: B.Tech CSE (Specialization in IoT & Blockchain)
 Passions: Web Development, Decentralized Tech, IoT Systems, & Competitive Coding
-Location: India 🇮🇳
+Location: India
 Status: 🚀 Open to Opportunities & Collaborations
 ```
+
+<p align="center">
+  <a href="https://kumarshobhit.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
 
 - 🏫 **Computer Science Student**: Specializing in **Internet of Things (IoT)** and **Blockchain Technology**.
 - 💻 **Full-Stack Enthusiast**: Experienced in building responsive web applications using **React, Node.js, Express, MongoDB, and modern CSS**.
@@ -34,7 +34,7 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 <table align="center" width="100%">
   <tr>
-    <td width="22%"><b>💻 Languages</b></td>
+    <td width="20%"><b>💻 Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,7 +45,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>🎨 Frontend</b></td>
+    <td width="20%"><b>🎨 Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -54,7 +54,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>⚙️ Backend</b></td>
+    <td width="20%"><b>⚙️ Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
@@ -63,7 +63,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>🗄️ Databases & Cloud</b></td>
+    <td width="20%"><b>🗄️ Databases & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -71,7 +71,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>🧰 Tools & OS</b></td>
+    <td width="20%"><b>🧰 Tools & OS</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -84,7 +84,7 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-### 📊 GitHub Stats & Streak:
+### 📊 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
@@ -98,6 +98,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     <img src="https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark" alt="GitHub Streak" width="95%" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
@@ -113,6 +114,7 @@ Status: 🚀 Open to Opportunities & Collaborations
     <img src="https://github-trophies.devomb.com/?username=kumarshobhit-1&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
@@ -133,14 +135,14 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-## 📈 Contribution Activity 
+## 📈 Contribution  
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Contribution Space Shooter" />
+  <img src="assets/space-shooter.gif" />
 </p>
 
 ---
 
-### 🔝 Featured & Top Repositories
+### 🔝 Top Contributed Repositories
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1/WanderLust-Major-Project">
@@ -158,22 +160,17 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-### ✨ Connect & Contact:
+### ✨ Contact Me:
 
-<p align="center">
-  <a href="https://linkedin.com/in/shobhit-kumar1437/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shobhitkumar1437@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/kumarshobhit-1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://hackerrank.com/shobhitkumar1437" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-kumar1437/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitkumar1437@gmail.com)
+
+---
+
+### 🖥️ Coding Platforms:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit-1/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 ---
 
@@ -184,12 +181,9 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Profile%20Views&color=00F2FE" alt="Profile Views" />
-</p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kumarshobhit-1&icon=4&color=0" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Visitors&color=blue" alt="Visitors" />
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=kumarshobhit-1&icon=4&color=0)](https://visitcount.itsvg.in)
