@@ -1,24 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Shobhit+Kumar;Full-Stack+Web+Developer+%F0%9F%92%BB;Blockchain+%26+IoT+Specialist+%E2%9A%A1;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing Banner" />
-</h1>
+<h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
 
 <p align="center">
-  <a href="https://kumarshobhit.tech" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F5FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/shobhit-kumar1437/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shobhitkumar1437@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/kumarshobhit-1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Profile+Views&color=00F5FF&style=flat-square" alt="Visitors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
 </p>
 
 ---
@@ -34,6 +17,12 @@ Location: India
 Status: 🚀 Open to Opportunities & Collaborations
 ```
 
+<p align="center">
+  <a href="https://kumarshobhit.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</p>
+
 - 🏫 **Computer Science Student**: Specializing in **Internet of Things (IoT)** and **Blockchain Technology**.
 - 💻 **Full-Stack Enthusiast**: Experienced in building responsive web applications using **React, Node.js, Express, MongoDB, and modern CSS**.
 - 🧩 **Problem Solver**: Active problem solver on **LeetCode**, **GeeksforGeeks**, and **HackerRank**.
@@ -41,7 +30,7 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🚀 Tech Stack & Skills:
 
 <table align="center" width="100%">
   <tr>
@@ -95,23 +84,37 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=dark" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
   </a>
-  &nbsp;
   <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  </a>
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark" alt="GitHub Streak" width="95%" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshobhit-1&theme=react-dark" alt="Activity Graph" width="95%" />
   </a>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-trophies.devomb.com/?username=kumarshobhit-1&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
 
 ---
 
@@ -133,18 +136,41 @@ Status: 🚀 Open to Opportunities & Collaborations
 ---
 
 ## 📈 Contribution  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kumarshobhit-1/kumarshobhit-1/main/assets/space-shooter.gif" alt="Space Shooter Contribution GIF" />
+  <img src="assets/space-shooter.gif" />
 </p>
 
 ---
 
-## 💬 Dev Quote
+### 🔝 Top Contributed Repositories
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+<p align="center">
+  <a href="https://github.com/kumarshobhit-1/WanderLust-Major-Project">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kumarshobhit-1&repo=WanderLust-Major-Project&theme=dark" alt="WanderLust Major Project" />
+  </a>
+  <a href="https://github.com/kumarshobhit-1/Data-visualisation-with-Python">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kumarshobhit-1&repo=Data-visualisation-with-Python&theme=dark" alt="Data Visualisation with Python" />
+  </a>
+</p>
+
+---
+
+### 💬 Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### ✨ Contact Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-kumar1437/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitkumar1437@gmail.com)
+
+---
+
+### 🖥️ Coding Platforms:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit-1/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
 
 ---
 
@@ -152,3 +178,12 @@ Status: 🚀 Open to Opportunities & Collaborations
   <p><i>Made with ❤️ by <b>Shobhit Kumar</b></i></p>
   <p>⭐ Feel free to star repositories you find interesting!</p>
 </div>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Visitors&color=blue" alt="Visitors" />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=kumarshobhit-1&icon=4&color=0)](https://visitcount.itsvg.in)
