@@ -1,118 +1,177 @@
-<h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 🏫 Student of B.Tech CSE, Specialization in IoT and Blockchain.
-- 💻 Passionate about coding, problem-solving, and web development.
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Shobhit+Kumar;Full-Stack+Web+Developer+%F0%9F%92%BB;Blockchain+%26+IoT+Specialist+%E2%9A%A1;Problem+Solver+%26+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing Banner" />
+</h1>
 
 <p align="center">
   <a href="https://kumarshobhit.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00F5FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://linkedin.com/in/shobhit-kumar1437/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shobhitkumar1437@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/kumarshobhit-1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Profile+Views&color=00F5FF&style=flat-square" alt="Visitors" />
 </p>
 
 ---
 
-### 🚀 Tech Stack:
+## 👨‍💻 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+```yaml
+Name: Shobhit Kumar
+Role: Computer Science Engineer & Full-Stack Developer
+Education: B.Tech CSE (Specialization in IoT & Blockchain)
+Passions: Web Development, Decentralized Tech, IoT Systems, & Competitive Coding
+Location: India
+Status: 🚀 Open to Opportunities & Collaborations
+```
 
----
-
-### 🧰 Frameworks and Libraries:
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Ejs](https://img.shields.io/badge/ejs-404D59?style=for-the-badge)
-
----
-
-### 🗄 Databases:
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🏫 **Computer Science Student**: Specializing in **Internet of Things (IoT)** and **Blockchain Technology**.
+- 💻 **Full-Stack Enthusiast**: Experienced in building responsive web applications using **React, Node.js, Express, MongoDB, and modern CSS**.
+- 🧩 **Problem Solver**: Active problem solver on **LeetCode**, **GeeksforGeeks**, and **HackerRank**.
+- ⚡ **Always Learning**: Passionate about system design, Web3 technology, and building high-performance web products.
 
 ---
 
-### 🧰 Tools:
+## 🛠️ Tech Stack & Skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<table align="center" width="100%">
+  <tr>
+    <td width="20%"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/EJS-B58900?style=for-the-badge&logo=ejs&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>🗄️ Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="20%"><b>🧰 Tools & OS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Analytics & Streak
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark)](https://git.io/streak-stats).
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarshobhit-1)](https://git.io/streak-stats)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/kumarshobhit-1">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshobhit-1&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/kumarshobhit-1">
+          <img src="https://github-readme-stats.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/kumarshobhit-1">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/kumarshobhit-1">
+          <img src="https://github-contributor-stats.vercel.app/api?username=kumarshobhit-1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Achievements & Trophies
 
-
----
-
-## 🧠 LeetCode Contributions
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&ext=heatmap)](https://leetcode.com/kumarshobhit-1)
+<div align="center">
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=kumarshobhit-1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
-## GeeksforGeeks
+## 🧠 Competitive Programming Profiles
 
-[![Shobhit's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=kumarshobhit?theme=dark&ext=heatmap)](https://www.geeksforgeeks.org/user/kumarshobhit/)
+<div align="center">
+  <a href="https://leetcode.com/kumarshobhit-1" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/kumarshobhit-1?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Card" width="460" />
+  </a>
+  <br/><br/>
+  <a href="https://www.geeksforgeeks.org/user/kumarshobhit/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge" />
+  </a>
+  <a href="https://hackerrank.com/shobhitkumar1437" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
+  </a>
+</div>
 
 ---
 
 ## 📈 Contribution  
+
 <p align="center">
-  <img src="assets/space-shooter.gif" />
+  <img src="assets/space-shooter.gif" alt="Space Shooter Contribution GIF" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kumarshobhit-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
 ---
 
-### 💬 Random Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### ✨ Contact Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobhit-kumar1437/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shobhitkumar1437@gmail.com)
-
----
-
-### 🖥️ Coding Platforms:
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kumarshobhit-1/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/shobhitkumar1437)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=kumarshobhit-1&label=Visitors&color=blue" alt="Visitors"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=kumarshobhit-1&icon=4&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <p><i>Made with ❤️ by <b>Shobhit Kumar</b></i></p>
+  <p>⭐ Feel free to star repositories you find interesting!</p>
+</div>
