@@ -95,26 +95,21 @@ Status: 🚀 Open to Opportunities & Collaborations
 
 ---
 
-## 📊 GitHub Analytics & Streak
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
-    <img src="https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=dark" height="195" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kumarshobhit-1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" height="195" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kumarshobhit-1&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kumarshobhit-1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshobhit-1&theme=react-dark" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshobhit-1&theme=react-dark" alt="Activity Graph" width="95%" />
   </a>
 </p>
 
@@ -140,7 +135,7 @@ Status: 🚀 Open to Opportunities & Collaborations
 ## 📈 Contribution  
 
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Contribution GIF" />
+  <img src="https://raw.githubusercontent.com/kumarshobhit-1/kumarshobhit-1/main/assets/space-shooter.gif" alt="Space Shooter Contribution GIF" />
 </p>
 
 ---
