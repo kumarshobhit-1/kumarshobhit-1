@@ -1,4 +1,12 @@
-<h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+    <img alt="Shobhit Kumar Terminal Banner" src="./assets/dark.svg" width="100%">
+  </picture>
+</p>
+
+<!-- <h1 align="center">Hi there! 👋 I am Shobhit Kumar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Blockchain+%26+IoT+Specialist;Full-Stack+Web+Developer;Always+Learning+%26+Growing!">
@@ -15,7 +23,7 @@ Education: B.Tech CSE (Specialization in IoT & Blockchain)
 Passions: Web Development, Decentralized Tech, IoT Systems, & Competitive Coding
 Location: India
 Status: 🚀 Open to Opportunities & Collaborations
-```
+``` -->
 
 <p align="center">
   <a href="https://kumarshobhit.tech" target="_blank">
