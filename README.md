@@ -102,7 +102,9 @@ Status: 🚀 Open to Opportunities & Collaborations
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kumarshobhit-1&layout=compact&theme=dark" alt="Top Languages" width="48%" />
   </a>
   <br><br>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=kumarshobhit-1&theme=dark" alt="GitHub Streak" width="95%" />
+  </a>
 </p>
 
 
